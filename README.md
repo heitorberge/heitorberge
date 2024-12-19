@@ -7,6 +7,7 @@ ______________________________________________________________
 - 💬 Pergunte-me sobre Qualquer Coisa
 - 📫 Como entrar em contato comigo: heitorberg114@gmail.com
 - Nacionalidade : Brasil
+- Nome : Heitor Berg
 ______________________________________________________________
 ## Hello!
 ______________________________________________________________
@@ -17,3 +18,4 @@ ______________________________________________________________
 - 💬 Ask me about Anything
 - 📫 How to contact me: heitorberg114@gmail.com
 - Nationality : Brazil
+- Nome : Heitor Berg
