@@ -20,3 +20,8 @@ ______________________________________________________________
 - Nationality : Brazil
 - Name : Heitor Berg
 ______________________________________________________________
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitor-berge&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heitor-berge&show_icons=true&locale=en" alt="heitor-berge" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heitor-berge&" alt="heitor-berge" /></p>
