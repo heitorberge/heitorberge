@@ -1,6 +1,5 @@
 ## OLÁ | HELLO 👋
 
-## PORTUGUÊS, BRASIL
 <!--
 
 - 🌱 Atualmente estou aprendendo no Curso Em Video
@@ -10,7 +9,7 @@
 - 📫 Como entrar em contato comigo: heitorberg114@gmail.com
 -->
 
-## ENGLISH, UNITED STATES
+
 <!--
 
 - 🌱 I am currently learning on the Curso Em Vídeo
