@@ -18,4 +18,4 @@ ______________________________________________________________
 - 💬 Ask me about Anything
 - 📫 How to contact me: heitorberg114@gmail.com
 - Nationality : Brazil
-- Nome : Heitor Berg
+- Name : Heitor Berg
