@@ -1,6 +1,6 @@
 ## Olá!
 
-______________________________________________________________
+
 
 - 🌱 Atualmente estou aprendendo no Curso Em Video
 - 👯 Procuro colaborar em Projetos
@@ -9,9 +9,9 @@ ______________________________________________________________
 - 📫 Como entrar em contato comigo: heitorberg114@gmail.com
 - Nacionalidade : Brasil
 - Nome : Heitor Berg
-
+______________________________________________________________ 
 ## Hello!
-______________________________________________________________
+
 
 - 🌱 I am currently learning on the Curso Em Vídeo
 - 👯 I'm looking to collaborate on projects
@@ -20,3 +20,4 @@ ______________________________________________________________
 - 📫 How to contact me: heitorberg114@gmail.com
 - Nationality : Brazil
 - Name : Heitor Berg
+______________________________________________________________
