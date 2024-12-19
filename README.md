@@ -1,6 +1,5 @@
 ## Olá!
-![Texto Alternativo](![dinotocat](https://github.com/user-attachments/assets/50fb765e-5db4-49b5-8ebe-6aadb12a6312)
-)
+
 ______________________________________________________________
 
 - 🌱 Atualmente estou aprendendo no Curso Em Video
