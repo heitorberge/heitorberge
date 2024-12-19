@@ -1,7 +1,6 @@
+______________________________________________________________
+
 ## Olá!
-
-
-
 - 🌱 Atualmente estou aprendendo no Curso Em Video
 - 👯 Procuro colaborar em Projetos
 - 🤔 Estou procurando ajuda com progamaçao
@@ -11,8 +10,6 @@
 - Nome : Heitor Berg
 ______________________________________________________________ 
 ## Hello!
-
-
 - 🌱 I am currently learning on the Curso Em Vídeo
 - 👯 I'm looking to collaborate on projects
 - 🤔 I'm looking for help with programming
