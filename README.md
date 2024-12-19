@@ -1,4 +1,5 @@
 ## Olá!
+![Texto Alternativo](file:///C:/Users/Berg/Downloads/dinotocat.png)
 ______________________________________________________________
 
 - 🌱 Atualmente estou aprendendo no Curso Em Video
