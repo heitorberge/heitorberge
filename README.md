@@ -6,7 +6,7 @@
 - 🤔 Estou procurando ajuda com progamaçao
 - 💬 Pergunte-me sobre Qualquer Coisa
 - 📫 Como entrar em contato comigo: heitorberg114@gmail.com
-
+- Nacionalidade : Brasil
 _____________________________________________________________
 
 
@@ -15,4 +15,4 @@ _____________________________________________________________
 - 🤔 I'm looking for help with programming
 - 💬 Ask me about Anything
 - 📫 How to contact me: heitorberg114@gmail.com
-
+- Nationality : Brazil
