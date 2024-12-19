@@ -1,5 +1,6 @@
 ## Olá!
-
+<img src="![dinotocat](https://github.com/user-attachments/assets/eb4be5c7-77d7-42ff-a319-65e12370f765)
+" alt="dinotocat">
 ______________________________________________________________
 
 - 🌱 Atualmente estou aprendendo no Curso Em Video
