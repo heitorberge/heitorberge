@@ -23,5 +23,6 @@ ______________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HeitorBerg&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HeitorBerg&show_icons=true&locale=en" alt="heitor-berge" /></p>
-![Texto alternativo](C:/Users/Berg/Downloads/dinotocat.png)
-![Texto alternativo](C:/Users/Berg/Downloads/octocat-1734620421716.png)
+![](C:/Users/Berg/Downloads/![dinotocat](https://github.com/user-attachments/assets/2bb8634b-7773-4209-b643-c3aa768ebcd1))
+![](C:/Users/Berg/Downloads/![octocat-1734620421716](https://github.com/user-attachments/assets/d62bc7e2-60cd-4328-8ef3-6d6f07e8fcba))
+
