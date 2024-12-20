@@ -23,6 +23,6 @@ ______________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HeitorBerg&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HeitorBerg&show_icons=true&locale=en" alt="heitor-berge" /></p>
-![](C:/Users/Berg/Downloads/![dinotocat](https://github.com/user-attachments/assets/2bb8634b-7773-4209-b643-c3aa768ebcd1))
-![](C:/Users/Berg/Downloads/![octocat-1734620421716](https://github.com/user-attachments/assets/d62bc7e2-60cd-4328-8ef3-6d6f07e8fcba))
+![](C:/Users/Berg/Downloads/[![dinotocat](https://github.com/user-attachments/assets/2bb8634b-7773-4209-b643-c3aa768ebcd1)](https://github-production-user-asset-6210df.s3.amazonaws.com/191712517/397727453-2bb8634b-7773-4209-b643-c3aa768ebcd1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241220T114027Z&X-Amz-Expires=300&X-Amz-Signature=fdacac7ef31ed69a94c9e1a30b41c18eae733d08cb18c0737e210e5e4f545616&X-Amz-SignedHeaders=host))
+![](C:/Users/Berg/Downloads/[![octocat-1734620421716](https://github.com/user-attachments/assets/d62bc7e2-60cd-4328-8ef3-6d6f07e8fcba)](https://github-production-user-asset-6210df.s3.amazonaws.com/191712517/397727453-2bb8634b-7773-4209-b643-c3aa768ebcd1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241220T114027Z&X-Amz-Expires=300&X-Amz-Signature=fdacac7ef31ed69a94c9e1a30b41c18eae733d08cb18c0737e210e5e4f545616&X-Amz-SignedHeaders=host))
 
