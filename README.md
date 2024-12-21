@@ -23,3 +23,4 @@ ______________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HeitorBerg&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HeitorBerg&show_icons=true&locale=en" alt="heitor-berge" /></p>
+😃 Oi! Hello!
