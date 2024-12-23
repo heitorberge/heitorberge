@@ -7,7 +7,7 @@ ______________________________________________________________
 - 👯 Procuro colaborar em Projetos
 - 🤔 Estou procurando ajuda com progamaçao
 - 💬 Pergunte-me sobre Qualquer Coisa
-- 📫 Como entrar em contato comigo:heitorberg114@gmail.com
+- 📫 Como entrar em contato comigo: heitorberg114@gmail.com
 - Nacionalidade : Brasil
 - Nome : Heitor Berg
 ______________________________________________________________ 
