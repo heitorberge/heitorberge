@@ -9,7 +9,7 @@ ______________________________________________________________
 - 💬 Pergunte-me sobre Qualquer Coisa
 - 📫 Como entrar em contato comigo: heitorberg114@gmail.com
 - 🏳️ Nacionalidade : Brasil
-- Nome : Heitor Berg
+- 😌 Nome : Heitor Berg
 ______________________________________________________________ 
 # 👋 Hello!
 - 🌱 I am currently learning on the Curso Em Vídeo
@@ -18,7 +18,7 @@ ______________________________________________________________
 - 💬 Ask me about Anything
 - 📫 How to contact me: heitorberg114@gmail.com
 - 🏳️ Nationality : Brazil
-- Name : Heitor Berg
+- 😌 Name : Heitor Berg
 ______________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorberge&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
 
