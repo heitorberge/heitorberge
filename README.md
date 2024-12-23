@@ -8,7 +8,7 @@ ______________________________________________________________
 - 🤔 Estou procurando ajuda com progamaçao
 - 💬 Pergunte-me sobre Qualquer Coisa
 - 📫 Como entrar em contato comigo: heitorberg114@gmail.com
-- Nacionalidade : Brasil
+- 🏳️ Nacionalidade : Brasil
 - Nome : Heitor Berg
 ______________________________________________________________ 
 # Hello!
@@ -17,7 +17,7 @@ ______________________________________________________________
 - 🤔 I'm looking for help with programming
 - 💬 Ask me about Anything
 - 📫 How to contact me: heitorberg114@gmail.com
-- Nationality : Brazil
+- 🏳️ Nationality : Brazil
 - Name : Heitor Berg
 ______________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorberge&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
