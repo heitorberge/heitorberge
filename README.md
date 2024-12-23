@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 ______________________________________________________________
 
-# Olá!
+#👋 Olá!
 - 🌱 Atualmente estou aprendendo no Curso Em Video
 - 👯 Procuro colaborar em Projetos
 - 🤔 Estou procurando ajuda com progamaçao
@@ -11,7 +11,7 @@ ______________________________________________________________
 - 🏳️ Nacionalidade : Brasil
 - Nome : Heitor Berg
 ______________________________________________________________ 
-# Hello!
+#👋 Hello!
 - 🌱 I am currently learning on the Curso Em Vídeo
 - 👯 I'm looking to collaborate on projects
 - 🤔 I'm looking for help with programming
