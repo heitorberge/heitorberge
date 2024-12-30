@@ -3,7 +3,6 @@
 ______________________________________________________________
 
 # 👋 Olá!  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heitorbergen&label=Profile%20views&color=0e75b6&style=flat" alt="heitor-berge" /> </p>  
 - 🌱 Atualmente estou aprendendo no Curso Em Video
 - 👯 Procuro colaborar em Projetos
 - 🤔 Estou procurando ajuda com progamaçao
@@ -34,4 +33,4 @@ ______________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorberge&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heitorberge&show_icons=true&locale=en" alt="heitor-berge" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heitorbergen&label=Profile%20views&color=0e75b6&style=flat" alt="heitor-berge" /> </p>  
