@@ -20,12 +20,12 @@ ______________________________________________________________
 - 🏳️ Nationality : Brazil
 - 😌 Name : Heitor Berg
 ______________________________________________________________
-# Meus Projetos
+# 😁 Meus Projetos
 Por Favor de uma olhada nos meus projetos,    
 Isso Pode me ajudar Muito então  
 Faça Isso se quiser me ajudar!
 ______________________________________________________________
-# My Projects
+# 😁 My Projects
 Please take a look at my projects,    
 This could help me a lot then  
 Do this if you want to help me!
