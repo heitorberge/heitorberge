@@ -20,7 +20,12 @@ ______________________________________________________________
 - 🏳️ Nationality : Brazil
 - 😌 Name : Heitor Berg
 ______________________________________________________________
+# Meus Projetos
+Por Favor de uma olhada nos meus projetos,    
+Isso Pode me ajudar Muito então  
+Faça Isso se quiser me ajudar!
+______________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorberge&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heitorberge&show_icons=true&locale=en" alt="heitor-berge" /></p>
-:octocat: Oi! Hello!
+
