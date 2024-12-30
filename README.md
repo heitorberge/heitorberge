@@ -3,6 +3,7 @@
 ______________________________________________________________
 
 # 👋 Olá!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heitorbergen&label=Profile%20views&color=0e75b6&style=flat" alt="heitor-berge" /> </p>
 - 🌱 Atualmente estou aprendendo no Curso Em Video
 - 👯 Procuro colaborar em Projetos
 - 🤔 Estou procurando ajuda com progamaçao
