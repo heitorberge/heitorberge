@@ -14,7 +14,7 @@ ______________________________________________________________
 # 😁 Meus Projetos
 Por Favor de uma olhada nos meus projetos,    
 Isso Pode me ajudar Muito então  
-Faça Isso se quiser me ajudar!
+Faça Isso se quiser me ajudar!☺
 ______________________________________________________________
 # 👋 Hello!
 - 🌱 I am currently learning on the **Curso Em Vídeo**
@@ -28,7 +28,7 @@ ______________________________________________________________
 # 😁 My Projects
 Please take a look at my projects,    
 This could help me a lot then  
-Do this if you want to help me!
+Do this if you want to help me!☺
 ______________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorberge&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
 
