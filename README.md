@@ -20,24 +20,6 @@ Faça Isso se quiser me ajudar!☺
 - Curso de [Javascript](https://github.com/heitorberge/Curso-js)
 - [Projeto Glass](https://github.com/heitorberge/PROJETO-GLASS) Em Html5, Css3 e Javascript
 ______________________________________________________________
-# 👋 Hello!
-- 🌱 I am currently learning on the **Curso Em Vídeo**
-- 👯 I'm looking to collaborate on projects
-- 🤔 I'm looking for help with programming
-- 💬 Ask me about Anything
-- 📫 How to contact me: heitorberg114@gmail.com
-- 🏳️ Nationality : Brazil
-- 😌 Name : Heitor Berg
-______________________________________________________________
-# 😁 My Projects
-Please take a look at my projects,    
-This could help me a lot then  
-Do this if you want to help me!☺
-- My [Github](https://github.com/heitorberge) Account
-- Some [Algorithm](https://github.com/heitorberge/Algorithm-course-video) Codes
-- [Javascript](https://github.com/heitorberge/Curso-js) Course
-- [Glass Project](https://github.com/heitorberge/PROJETO-GLASS) In Html5, Css3 and Javascript
-______________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorberge&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heitorberge&show_icons=true&locale=en" alt="heitor-berge" /></p>
