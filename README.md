@@ -15,6 +15,10 @@ ______________________________________________________________
 Por Favor de uma olhada nos meus projetos,    
 Isso Pode me ajudar Muito então  
 Faça Isso se quiser me ajudar!☺
+- Minha Conta No [Github](https://github.com/heitorberge)
+- Alguns Códigos de [Algoritimo](https://github.com/heitorberge/Algoritimo-cursoemvideo)
+- Curso de [Javascript](https://github.com/heitorberge/Curso-js)
+- [Projeto Glass](https://github.com/heitorberge/PROJETO-GLASS) Em Html5, Css3 e Javascript
 ______________________________________________________________
 # 👋 Hello!
 - 🌱 I am currently learning on the **Curso Em Vídeo**
