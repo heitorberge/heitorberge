@@ -33,6 +33,10 @@ ______________________________________________________________
 Please take a look at my projects,    
 This could help me a lot then  
 Do this if you want to help me!☺
+- My [Github](https://github.com/heitorberge) Account
+- Some [Algorithm](https://github.com/heitorberge/Algorithm-course-video) Codes
+- [Javascript](https://github.com/heitorberge/Curso-js) Course
+- [Glass Project](https://github.com/heitorberge/PROJETO-GLASS) In Html5, Css3 and Javascript
 ______________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorberge&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
 
