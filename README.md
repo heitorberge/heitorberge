@@ -19,6 +19,7 @@ Faça Isso se quiser me ajudar!☺
 - Alguns Códigos de [Algoritimo](https://github.com/heitorberge/Algoritimo-cursoemvideo)
 - Curso de [Javascript](https://github.com/heitorberge/Curso-js)
 - [Projeto Glass](https://github.com/heitorberge/PROJETO-GLASS) Em Html5, Css3 e Javascript
+- Mais [Projetos](https://github.com/heitorberge?tab=repositories)
 ______________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorberge&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
 
