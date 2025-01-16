@@ -10,7 +10,7 @@ ______________________________________________________________
 - 📫 Como entrar em contato comigo: heitorberg114@gmail.com
 - 🏳️ Nacionalidade : Brasil
 - 😌 Nome : Heitor Berg
-______________________________________________________________
+---
 # 😁 Meus Projetos
 Por Favor de uma olhada nos meus projetos,    
 Isso Pode me ajudar Muito então  
