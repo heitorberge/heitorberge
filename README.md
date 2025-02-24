@@ -26,7 +26,7 @@ Faça Isso se quiser me ajudar!☺
 - Minha Linguagem de progamação Favorita é Java.
 - Amo Jogos Eletronicos.
 - Recentemente estou Aprendendo Progamação Orientada a Objetos em Java.
-- Meu professor é @gustavoguanabara
+- Meu professor é [Gustavo Guanabara](https://github.com/gustavoguanabara)
 ______________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorberge&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heitorberge&show_icons=true&locale=en" alt="heitor-berge" /></p>
