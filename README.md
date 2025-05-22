@@ -3,7 +3,7 @@
 ______________________________________________________________
 
 # 👋 Olá!  
-- 🌱 Atualmente estou aprendendo no **Curso Em Video**
+- 🌱 Atualmente estou aprendendo Python.
 - 👯 Procuro colaborar em Projetos
 - 🤔 Estou procurando ajuda com progamaçao
 - 💬 Pergunte-me sobre Qualquer Coisa
@@ -23,7 +23,7 @@ Faça Isso se quiser me ajudar!☺
 ---
 # 😎 Sobre Mim
 - Já Aprendi Algoritimo, Html, Css, Java e Javascript, etc.
-- Minha Linguagem de progamação Favorita é Java.
+- Minha Linguagem de progamação Favorita é Python.
 - Amo Jogos Eletronicos.
 - Recentemente estou Aprendendo Progamação Orientada a Objetos em Java.
 - Meu professor é [Gustavo Guanabara](https://github.com/gustavoguanabara)
