@@ -5,7 +5,7 @@ ______________________________________________________________
 # 👋 Olá!  
 - 🌱 Atualmente estou aprendendo Python.
 - 👯 Procuro colaborar em Projetos
-- 🤔 Estou procurando ajuda com progamaçao
+- 🤔 Estou procurando ajuda com progamação
 - 💬 Pergunte-me sobre Qualquer Coisa
 - 📫 Como entrar em contato comigo: heitorberg114@gmail.com
 - 🏳️ Nacionalidade : Brasil
@@ -24,8 +24,7 @@ Faça Isso se quiser me ajudar!☺
 # 😎 Sobre Mim
 - Já Aprendi Algoritimo, Html, Css, Java e Javascript, etc.
 - Minha Linguagem de progamação Favorita é Python.
-- Amo Jogos Eletronicos.
-- Recentemente estou Aprendendo Progamação Orientada a Objetos em Java.
+- Amo Jogos Eletrônicos.
 - Meu professor é [Gustavo Guanabara](https://github.com/gustavoguanabara)
 ______________________________________________________________
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorberge&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
