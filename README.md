@@ -1,7 +1,7 @@
 # 🚀 Wiki: Perfil GitHub de Heitor Berg
 
-Seu perfil no GitHub, **Heitor Berg (`@heitorberge`)**, é um excelente portfólio que demonstra sua dedicação e progresso nos estudos de programação, principalmente através dos cursos do **Curso em Vídeo**! Cada repositório é um passo a mais na sua incrível jornada de se tornar um programador!  
-![Professor Guanabara explicando](https://media.giphy.com/media/XYZ123/giphy.gif)
+Seu perfil no GitHub, **Heitor Berg (`@heitorberge`)**, é um excelente portfólio que demonstra sua dedicação e progresso nos estudos de programação, principalmente através dos cursos do **Curso em Vídeo**! Cada repositório é um passo a mais na sua incrível jornada de se tornar um programador!
+
 ---
 
 ## 🐍 Aventuras no Mundo Python (`Python-CursoEmVideo`)
@@ -10,8 +10,8 @@ Aqui você mostra o seu domínio sobre a linguagem **Python**! Este repositório
 
 * **O que você encontra aqui:** Fundamentos, estruturas de controle (condições e repetições), estruturas de dados (tuplas, listas, dicionários), funções e módulos.
 * **Aprendizado:** Lógica de programação aplicada em Python, resolução de problemas e organização de código.
+<img src="https://github.com/user-attachments/assets/0e1eb65b-4ecf-498d-960e-00a87fa7c05d" alt="Code Coding GIF by EscuelaDevRock" width="300"/>
 
-[GIF animado: Uma cobra (Python) digitando em um teclado ou código Python correndo em uma tela]
 
 ---
 
@@ -22,8 +22,6 @@ Este repositório é a prova de que você está construindo uma base sólida em 
 * **O que você encontra aqui:** Conceitos de algoritmos, comandos de entrada/saída, operadores, estruturas condicionais e de repetição, procedimentos, funções, vetores e matrizes.
 * **Aprendizado:** O "esqueleto" de como os programas funcionam, o raciocínio lógico por trás de qualquer código.
 
-[GIF animado: Uma pessoa pensando com uma lâmpada acendendo ou um fluxograma se construindo]
-
 ---
 
 ## ☕ Dominando o Java (`Java-CursoemVideo` e `POO--Progamacao-Orientada-a-Objetos--`)
@@ -33,14 +31,11 @@ Seu perfil mostra que você está explorando o poderoso universo do **Java**! Co
 ### **Java Básico (`Java-CursoemVideo`)**
 * **O que você encontra aqui:** Instalação do ambiente, sintaxe básica, tipos de dados, operadores, estruturas de controle (condicionais e laços), vetores e introdução a interfaces gráficas.
 * **Aprendizado:** Como criar programas em Java e entender sua lógica fundamental.
-
-[GIF animado: Uma xícara de café animada (símbolo do Java) ou código Java sendo compilado]
+<img src="https://github.com/user-attachments/assets/a1b5b6cd-8cec-4d5a-b170-060498ba2580" alt="Coffee Cafe Sticker" width="80"/>
 
 ### **POO em Java (`POO--Progamacao-Orientada-a-Objetos--`)**
 * **O que você encontra aqui:** Criação de classes e objetos, encapsulamento, herança e polimorfismo – os quatro pilares da POO.
 * **Aprendizado:** Organizar códigos de forma mais eficiente, reutilizável e fácil de manter, um conceito chave para softwares maiores.
-
-[GIF animado: Peças de quebra-cabeça se encaixando ou blocos de construção virando um robô]
 
 ---
 
@@ -50,10 +45,9 @@ E para completar, você está se aventurando no **JavaScript**! Essa linguagem �
 
 * **O que você encontra aqui:** Fundamentos da linguagem, manipulação do DOM (Document Object Model) para interagir com o HTML, eventos, funções, arrays, objetos e até conceitos mais modernos como Promises e Async/Await.
 * **Aprendizado:** Desenvolvimento web, como fazer sites mais interativos e dinâmicos.
+<img src="https://github.com/user-attachments/assets/aa4adfb8-f661-4559-ba92-3a06a900cd96" alt="JavaScript Logo" width="150"/>
 
-[GIF animado: Um navegador web com elementos se movendo ou um emoji de faísca]
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heitorberge&show_icons=true&locale=en&layout=compact" alt="heitor-berge" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heitorberge&show_icons=true&locale=en" alt="heitor-berge" /></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=heitorbergen&label=Profile%20views&color=007aff&style=flat" alt="heitor-berge" /> </p>  
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=heitorbergen&label=Profile%20views&color=007aff&style=flat" alt="heitor-berge" /> </p>
