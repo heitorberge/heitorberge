@@ -1,7 +1,7 @@
 # 🚀 Wiki: Perfil GitHub de Heitor Berg
 
 Seu perfil no GitHub, **Heitor Berg (`@heitorberge`)**, é um excelente portfólio que demonstra sua dedicação e progresso nos estudos de programação, principalmente através dos cursos do **Curso em Vídeo**! Cada repositório é um passo a mais na sua incrível jornada de se tornar um programador!
-
+![Professor Guanabara explicando](https://media.giphy.com/media/XYZ123/giphy.gif)
 ---
 
 ## 🐍 Aventuras no Mundo Python (`Python-CursoEmVideo`)
