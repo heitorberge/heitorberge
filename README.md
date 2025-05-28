@@ -1,5 +1,7 @@
-# 🚀 Wiki: Perfil GitHub de Heitor Berg  
+# 🚀 Wiki: Perfil GitHub de Heitor Berg
+
 Aqui temos varios repositorios onde você pode revisar seu exercicios do Curso em Vídeo!
+
 ---
 
 ## 🐍 Aventuras no Mundo Python (`Python-CursoEmVideo`)
